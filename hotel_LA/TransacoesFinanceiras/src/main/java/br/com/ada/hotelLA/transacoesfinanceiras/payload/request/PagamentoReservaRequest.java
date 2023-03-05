@@ -1,4 +1,4 @@
-package br.com.ada.hotelLA.transacoesfinanceiras.payload;
+package br.com.ada.hotelLA.transacoesfinanceiras.payload.request;
 
 import jakarta.validation.constraints.NotNull;
 import lombok.Data;
